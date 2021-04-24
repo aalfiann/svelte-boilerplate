@@ -1,4 +1,4 @@
-# svelte-boilerplate
+# svelte-ie11-boilerplate
 
 Make a svelte app compatible with IE11.
 
