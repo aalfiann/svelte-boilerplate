@@ -1,5 +1,5 @@
 {
-  "name": "svelte-boilerplate",
+  "name": "svelte-ie11-boilerplate",
   "version": "1.0.0",
   "devDependencies": {
     "@babel/core": "^7.4.5",
